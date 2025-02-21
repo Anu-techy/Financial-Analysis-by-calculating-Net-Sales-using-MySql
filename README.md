@@ -1,15 +1,16 @@
 # Sales-Analysis-using-MySql
 
-Aim
+**Aim**
 
 Calculating revenue and analysing trends based on
 
 Monthly aggregated Sales Report of Croma in FY 2021 using joins and functions
 Yearly Sales Report of Croma using stored procedures
 Stored procedure to Determine Market Badge
-Description:
 
-Atliq is a hardware company which manufactures electronic hardware items like PC, Laptop, Hard Drive, mouse, Keyboards, pendrives etc It has operations all over the globe.
+**Description:**
+
+**Atliq** is a hardware company which manufactures electronic hardware items like PC, Laptop, Hard Drive, mouse, Keyboards, pendrives etc It has operations all over the globe.
 
 It sells to consumers throught the following distribution channels:
 
@@ -20,7 +21,8 @@ It has two platforms
 
               1. Brick and Mortar (like Croma, BestBuy)
               2. E-commerce ( like Amazon, Flipkart)
-Key Performance Indicators (KPIs) to calculate Profit and Loss Statement
+              
+**Key Performance Indicators (KPIs) to calculate Profit and Loss Statement**
 
 The Gross Price refers to the total price of a product or service before any deductions, such as taxes, discounts, or other costs, are subtracted.
 
@@ -46,22 +48,30 @@ Pricing Strategy: It helps assess whether a company is pricing its products effe
                                         Gross Margin = Net Sales - COGS
 
                                         Gross Margin % = ( GM / NS )*100
-ETL (Extract Transform Load) Process
+**ETL (Extract Transform Load) Process**
 
 Data is imported from Atliq Database
 
-Dimension tables :
+**Dimension tables:**
 
 dim_customer (customer_code, customer, platform, market, sub_zone, region)
+
 dim_product (product_code, division, segment, category, product, variant)
-Fact tables/Transaction tables :
+
+**Fact tables/Transaction tables:**
 
 fact_sales_monthly (monthly aggregated data in start of the month date, product_code, customer_code, sold_quantity )
+
 fact_freight_Cost (market, fiscal_year, freight_pct, other_cost_pct)
+
 fact_gross_price (product_code, fiscal_year, gross_price)
+
 fact_manufacturing_cost (product_code, cost_year/fiscal_year, manufacturing_cost)
+
 fact_post_invoice_deductions (customer_code, product_code, date, discounts_pct, other_deductions_pct)
+
 fact_pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pct)
+
 =======================================================================
 
 Recommendations
