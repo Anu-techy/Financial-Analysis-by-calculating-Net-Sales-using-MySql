@@ -9,6 +9,7 @@
 **Description:**
 
 **Atliq** is a hardware company which manufactures electronic hardware items like PC, Laptop, Hard Drive, mouse, Keyboards, pendrives etc It has operations all over the globe.
+===========================================================
            
 **Key Performance Indicators (KPIs) to calculate Profit and Loss Statement**
 
@@ -26,10 +27,7 @@ A **Pre invoice Deductions** refers to a reduction or discount applied to the pr
 
                                           Net Sales = Net invoice Sales - Post invoice Deductions
                                           
-**COGS** includes all the costs that are directly tied to the production process, such as the cost of raw materials, labor, and manufacturing expenses.
-
-                            Cost of Goods Sold (COGS) = Manufacturing Cost + Freight (Transportation Cost) + Other Cost  
-                            
+======================================================================                            
 **ETL (Extract Transform Load) Process**
 
 Data is imported from Atliq Database
@@ -76,14 +74,12 @@ Use a View when you need to encapsulate a complex query as a virtual table that 
 
 ========================================================
 
-Recommendations
+**Conclusions:**
 
-Use Report to
+Net sales provide a more accurate measure of a company’s revenue by factoring in returns, discounts, and allowances. Analyzing net sales is essential for:
 
-Understand monthly sales of customers and identify last sales months and strategize to improve sales
+1. Assessing business performance, profitability, and customer behavior
 
-Understand yearly sales of customers to get Year over year change percentage and plan accordingly
+2. Informing financial decisions and forecasting
 
-Quickly get the market performance by determining market badge
-
-Slice and dice data to drill down the hidden insights
+3. Identifying top markets, customers, and products to optimize strategies and resource allocation
