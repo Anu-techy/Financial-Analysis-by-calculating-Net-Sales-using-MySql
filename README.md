@@ -72,6 +72,26 @@ fact_pre_invoice_deductions (customer_code, fiscal_year, pre_invoice_discount_pc
 
 =======================================================================
 
+**Common Table Expression (CTE)**
+
+CTEs allow you to write modular queries to improve readability, making complex SQL statements easier to understand and maintain.
+
+You can use the same CTE multiple times within a single query,
+
+CTEs can be recursive, which is useful for queries that need to handle hierarchical or recursive data (e.g., finding all descendants in a tree structure).
+
+Use a CTE when you need temporary, modular, and reusable logic within a single query. It's ideal for complex operations that can benefit from better query organization and clarity.
+
+**View**
+
+A View is a virtual table that stores a predefined SQL query in the database schema. When a query is executed on a view, the database runs the underlying query and returns the result as though it's a table.
+
+A view is reusable across multiple queries and sessions.
+
+Use a View when you need to encapsulate a complex query as a virtual table that will be used repeatedly across different queries, or when you need to provide simplified access to data for different users or applications.
+
+========================================================
+
 Recommendations
 
 Use Report to
