@@ -1,4 +1,4 @@
-# Financial Analysis-by calculating Net Sales using-MySql
+# Financial Analysis by calculating Net Sales using MySql
 
 **Aim**
 
