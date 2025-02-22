@@ -1,12 +1,10 @@
-# Sales-Analysis-using-MySql
+# Financial Analysis-by calculating Net Sales using-MySql
 
 **Aim**
 
-Calculating revenue and analysing trends based on
-
-Monthly aggregated Sales Report of Croma in FY 2021 using joins and functions
-Yearly Sales Report of Croma using stored procedures
-Stored procedure to Determine Market Badge
+1. Calculate net_invoice_sales using CTE (Common Table Expressions)
+2. Calculate net_invoice_sales using Views
+3. Calculate Net_sales using CTE (Common Table Expressions) and Views
 
 **Description:**
 
