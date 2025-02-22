@@ -4,7 +4,7 @@
 
 1. Calculate net_invoice_sales using CTE (Common Table Expressions)
 2. Calculate net_invoice_sales using Views
-3. Calculate Net_sales using CTE (Common Table Expressions) and Views
+3. Calculate Net_sales using Views
 
 **Description:**
 
