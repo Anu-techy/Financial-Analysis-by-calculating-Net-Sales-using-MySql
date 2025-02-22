@@ -5,6 +5,8 @@
 1. Calculate net_invoice_sales using CTE (Common Table Expressions)
 2. Calculate net_invoice_sales using Views
 3. Calculate Net_sales using Views
+4. Calculate Top markets by net sales in a given fiscal year
+5. Calculate Top custoners by net sales in a given market, fiscal year
 
 **Description:**
 
