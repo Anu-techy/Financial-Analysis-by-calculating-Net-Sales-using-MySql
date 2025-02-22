@@ -9,6 +9,7 @@
 **Description:**
 
 **Atliq** is a hardware company which manufactures electronic hardware items like PC, Laptop, Hard Drive, mouse, Keyboards, pendrives etc It has operations all over the globe.
+
 ===========================================================
            
 **Key Performance Indicators (KPIs) to calculate Profit and Loss Statement**
