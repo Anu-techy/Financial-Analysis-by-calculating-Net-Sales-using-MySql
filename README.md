@@ -75,7 +75,7 @@ Use a View when you need to encapsulate a complex query as a virtual table that 
 
 ========================================================
 
-**Conclusions:**
+**Conclusion:**
 
 Net sales provide a more accurate measure of a company’s revenue by factoring in returns, discounts, and allowances. Analyzing net sales is essential for:
 
