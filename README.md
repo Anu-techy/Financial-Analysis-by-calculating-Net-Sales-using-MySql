@@ -7,6 +7,7 @@
 3. Calculate Net_sales using Views
 4. Calculate Top markets by net sales in a given fiscal year
 5. Calculate Top custoners by net sales in a given market, fiscal year
+6. Calculate Top products by net sales for a given year.
 
 **Description:**
 
