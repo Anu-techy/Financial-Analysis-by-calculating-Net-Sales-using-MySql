@@ -12,7 +12,7 @@
 ======================================================================                            
 **ETL (Extract Transform Load) Process**
 
-Data is imported from Atliq Database
+Data is imported from Database
 
 **Dimension tables:**
 
